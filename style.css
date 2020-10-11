@@ -90,8 +90,8 @@ body {
   top: 0;
   left: 0;
   content: "";
-  background: url("/images/pexels-nao-triponez-792199.jpg") no-repeat center
-    center/cover;
+  background: url("https://images.pexels.com/photos/374720/pexels-photo-374720.jpeg?cs=srgb&dl=pexels-burst-374720.jpg&fm=jpg")
+    no-repeat center center/cover;
   width: 100%;
   height: 100%;
   z-index: -1;
